@@ -2,6 +2,9 @@
 
 This project showcase how to instrument a microservice written in [Go](https://golang.org/) using [OpenTelemetry](https://opentelemetry.io/), to produce telemetry data (traces and metrics) to [Elastic APM](https://www.elastic.co/apm).
 
+## Talk
+[Gopher Con Europe 2021](https://www.youtube.com/watch?v=NLXABIZ1gUQ)
+
 ## Run with the collector
 
 Using this model, the Go application sends the traces and metrics to a collector that forwards them to Elastic APM.
